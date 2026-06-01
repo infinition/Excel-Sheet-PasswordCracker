@@ -1,0 +1,13 @@
+# Excel files (likely contain sensitive data — do not commit)
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
